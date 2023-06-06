@@ -1,0 +1,5 @@
+test
+1000
+6
+14pool6_1.txt pool4_0.txt pool5_0.txt pool3_2.txt pool1_2.txt 
+rien pour linstant

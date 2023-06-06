@@ -1,0 +1,16 @@
+dans les noms
+mdp
+solde
+niveau
+nb_pool_owned
+liste pool owned ; format pool1 pool2
+liste pool avec propositions, format owner_level_pool (arsene_2,test_1)
+
+
+les pools sont de forme pool2_3 : 3eme pool de niveau 2
+niveau
+solde
+nb_participants
+owner inscrit2 inscrit3
+
+

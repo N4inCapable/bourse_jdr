@@ -1,0 +1,6 @@
+password
+1000
+6
+1
+niet
+test-6-pool6_1.txt test-6-pool4_0.txt  test-5-pool5_0.txt  test-3-pool3_2.txt  test-1-pool1_2.txt 
